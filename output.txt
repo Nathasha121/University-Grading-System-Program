@@ -1,0 +1,12 @@
+Part3:
+Progress - 120, 0, 0
+Progress(module trailer) - 100, 20, 0
+Progress(module trailer) - 100, 0, 20
+Progress(module trailer) - 100, 20, 0
+Module retrieve -  80, 20, 20
+Module retrieve -  60, 0, 60
+Module retrieve -  40, 80, 0
+Module retrieve -  20, 40, 60
+Module retrieve -  0, 60, 60
+Exclude - 40, 0, 80
+Exclude - 20, 0, 100
